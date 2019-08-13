@@ -64,3 +64,69 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.container{
+	/* background-color: aqua; */
+	width: 900px;
+	margin: 0 auto;
+	border: solid grey 1px
+}
+
+section h2{
+padding-top: 10px;
+margin: 0 0 10px 0;
+}
+
+.footer-content {
+    padding: 10px 0;
+    text-align:center;
+}
+
+.container header nav a {
+    margin: 0 10px;
+    padding: 10px;
+    display: inline-block;
+	margin-bottom: 10px;
+}
+
+.great-idea {
+	display: inline-block;
+	margin-left: 150px
+} 
+.section-two {
+	width: 420px;
+	display: inline-block;
+	padding-right: 5px;
+	padding-bottom: 10px;
+	margin: 5px
+}
+
+#header{
+	margin-left: 70px
+}
+.inno-img{
+	width: 448px;
+	float: left;
+	text-align: center;
+	margin-bottom:50px;
+	margin-top: 50px
+}
+
+.inno-img h1{
+	font-size: 80px;
+	margin-top: 50px
+}
+.inno-img button{
+	padding: 10px;
+}
+
+.middle-img{
+	width: 100%
+}
+.section-three{
+	width: 285px;
+	display: inline-block;
+	padding-right: 1px;
+	padding-bottom: 10px;
+	margin: 5px
+}
